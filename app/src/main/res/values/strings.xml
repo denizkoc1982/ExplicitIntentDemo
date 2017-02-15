@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Explicit Intent</string>
+    <string name="ilk_aktivite">Aktivite 1</string>
+    <string name="ikinci_aktivite">Aktivite 2</string>
+    <string name="ucuncu_aktivite">Aktivite 3</string>
+    <string name="ileri">Ileri</string>
+    <string name="geri">Geri</string>
+    <string name="uygulama_acildi">Uygulama Acildi</string>
+</resources>
